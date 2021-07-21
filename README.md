@@ -2,7 +2,7 @@
 
   The purpose of this analysis is to complete the election audit of a recent local congressional election in colorado.
   election results csv file, python 3.7.1, and visual code utilized to apply codes and generate final reports.
-  Tom a colorado board of election employee require to see the output of the following.
+  Tom a Colorado board of election employee require to see the output of the following.
     
    1. Reporting total number of votes cast.
    2. Voter count for each county and percentage of votes from each county out of the total count
@@ -16,7 +16,7 @@
    * There were 369,711 votes cast in the election.
    * The county results were:
      * Jefferson county received 10.5% of the vote and 38,855 number of votes.
-     * Denvercounty received 82.8% of the vote and 306,055 number of votes.
+     * Denver county received 82.8% of the vote and 306,055 number of votes.
      * Arapahoe county received 6.7% of the vote and 24,801 number of votes.
    * Denver was county with the largest number of votes.  
    * The candidate results were:
@@ -32,7 +32,7 @@
 
   This script can be used for coming elections to analyze the county with least number of votes.
 
-  First using **"ctrl+F"** and Replace on visual code , Tom can replace the variable name for Largest_county with Least_county.
+  First using **"ctrl+F"** and Replace on visual code , Tom can replace the variable name for largest_county with least_county.
   
 ![Largest_County_Var](https://user-images.githubusercontent.com/86446609/126049932-96325a35-f37c-44da-a9c8-753d02b037a2.JPG)  
 
